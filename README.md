@@ -27,7 +27,7 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-      <a href = "lidylazaro@gmail.com">
+      <a href = "https://www.lidylazaro@gmail.com">
         <img 
           title="manda email"
           src="https://img.shields.io/badge/-Gmail-%23333?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=gmail&logoColor=white"
