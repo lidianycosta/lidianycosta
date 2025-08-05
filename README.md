@@ -71,9 +71,49 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Azure DevOps" 
+    title="Azure DevOps"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
+/>
+/>
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+/>
+/>
+<img 
+    align="left" 
+    alt="Notion" 
+    title="Notion"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+/>
+/>
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
 
 ### 📊 Estatísticas
 
@@ -85,6 +125,7 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lidianycosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  
 
   <img 
       align="left" 
