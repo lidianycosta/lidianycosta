@@ -5,20 +5,6 @@
 Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de software. Tenho experiência com automação de testes, especialmente usando Robot Framework, além de ferramentas como Postman e Git. Atualmente, faço parte da squad de automação da QaCoders. Gosto de aprender coisas novas, resolver problemas e deixar tudo com alto padrão de qualidade! Aqui no GitHub, compartilho alguns dos meus estudos, projetos e experimentos da área de QA.
 
 <p 
-    </a> 
-    <a href="https://github.com/lidianycosta?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lidianycosta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lidianycosta?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lidianycosta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
     <a href="https://www.linkedin.com/in/lidianylazaro">
         <img 
