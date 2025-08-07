@@ -65,7 +65,6 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="Swagger" 
@@ -74,7 +73,6 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
 />
-/>
 <img 
     align="left" 
     alt="Notion" 
@@ -82,7 +80,6 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
-/>
 />
 <img 
     align="left" 
@@ -100,6 +97,8 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
+
+<br clear="left" />
 
 ### 📊 Estatísticas
 
