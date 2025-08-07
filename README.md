@@ -1,30 +1,24 @@
+
 # 👩🏻‍💻 Lidiany Costa
 
 **`Analista de testes`**
 
 Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de software. Tenho experiência com automação de testes, especialmente usando Robot Framework, além de ferramentas como Postman e Git. Atualmente, faço parte da squad de automação da QaCoders. Gosto de aprender coisas novas, resolver problemas e deixar tudo com alto padrão de qualidade! Aqui no GitHub, compartilho alguns dos meus estudos, projetos e experimentos da área de QA.
 
-<p 
-    </a>
-    <a href="https://www.linkedin.com/in/lidianylazaro">
-        <img 
-            alt="LinkedIn Badge" 
-            title="linkedin" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-      <a href = "https://www.lidylazaro@gmail.com">
-        <img 
-          title="manda email"
-          src="https://img.shields.io/badge/-Gmail-%23333?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=gmail&logoColor=white"
-       />
-    </a>
-</p>
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 Contatos 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/lidianylazaro" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:https://www.lidylazaro@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+### 🚀 Linguagens e tecnologias 
 <img 
     align="left" 
     alt="HTML"
@@ -119,4 +113,10 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidianycosta&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
+</p>
+
+<br clear="left" /><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=💜+🤖+👩🏻‍💻&center=true&width=380">
 </p>
