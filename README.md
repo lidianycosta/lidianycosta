@@ -92,6 +92,7 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
+
 <br clear="left" />
 
 ### 📊 Estatísticas
