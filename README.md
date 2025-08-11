@@ -95,17 +95,15 @@ Me chamo Lidiany Lázaro, sou de Belém/PA e atuo na área de qualidade de softw
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lidianycosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lidianycosta&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400" 
   />
   
-
   <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidianycosta&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidianycosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=86400" 
   />
-
 </p>
 
 <br clear="left" /><br>
